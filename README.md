@@ -39,7 +39,7 @@ map.html
 <body>
 
 <center>
-    <h1><font color="blue"><b>Ashwin Ash</b></font></h1>
+    <h1><font color="blue"><b>dilip kumar</b></font></h1>
     <h2><font color="green"><b>Anna Nagar</b></font></h2>
 
     <!-- MAP IMAGE -->
@@ -91,7 +91,7 @@ metro.html
 <body bgcolor="purple">
   <center>
     <h1><font color="cyan"><b>Thirumangalam Metro Station</b></font></h1>
-    <h3><font color="lime"><b>Ashwin Ash</b></font></h3>
+    <h3><font color="lime"><b>dilip kumar</b></font></h3>
 
     <hr>
 
@@ -118,7 +118,7 @@ shanthi_colony.html
 <body bgcolor="purple">
   <center>
     <h1><font color="cyan"><b>Shanthi Colony</b></font></h1>
-    <h3><font color="lime"><b>Ashwin Ash</b></font></h3>
+    <h3><font color="lime"><b>dilip kumar</b></font></h3>
     <hr>
     <font face="Georgia" size="4" color="white">
       <p align="justify">
@@ -142,7 +142,7 @@ tower_park.html
 <body bgcolor="purple">
   <center>
     <h1><font color="cyan"><b>Anna Nagar Tower Park</b></font></h1>
-    <h3><font color="lime"><b>Ashwin Ash</b></font></h3>
+    <h3><font color="lime"><b>dilip kumar</b></font></h3>
 
     <hr>
 
@@ -170,7 +170,7 @@ vr_mall.html
 <body bgcolor="purple">
   <center>
     <h1><font color="cyan"><b>VR Chennai Mall</b></font></h1>
-    <h3><font color="lime"><b>Ashwin Ash</b></font></h3>
+    <h3><font color="lime"><b>dilip kumar</b></font></h3>
 
     <hr>
 
